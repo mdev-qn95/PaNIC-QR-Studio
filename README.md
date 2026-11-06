@@ -106,3 +106,9 @@ Khi bạn đổi loại nội dung, các mẫu hợp với loại đó được 
 <p align="center">
   <a href="https://panic-qr-studio.vercel.app"><img src="assets/open-app.svg" alt="Mở PaNIC QR Studio" height="56"></a>
 </p>
+
+## Thêm vào màn hình chính iPhone
+
+Mở website bằng Safari → Chia sẻ → Thêm vào MH chính → Thêm. Nếu có tuỳ chọn “Mở dưới dạng ứng dụng web”, hãy bật tuỳ chọn đó.
+
+Nếu đã thêm biểu tượng trước khi cập nhật, hãy gỡ biểu tượng cũ và thêm lại từ Safari sau khi bản cập nhật đã triển khai. Web cung cấp icon PNG 180×180 cho iPhone và manifest với chế độ `standalone` để mở độc lập, không có thanh địa chỉ Safari.
